@@ -61,7 +61,7 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    await message.reply_text("<b>🎗 If You Want Any Movie, Series Please Join Our Request Groups \n \n 🏆 Request Group: [Click Here 🎗](https://t.me/Filmy_Rog)</b>")
+    await message.reply_text("<b>🎗 If You Want Any Movie, Series Please Join Our Request Groups \n \n 🏆 Request Group: [Click Here 🎗](https://t.me/moonverse1)</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
         text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
@@ -566,7 +566,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                              InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/Filmy_Men')
+                              InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/moonverse2023movies')
                                                   
                              ]
                             ]
@@ -612,7 +612,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/filmy_men')
+                  InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/moonverse1')
                  ]
                 ]
             )
@@ -915,13 +915,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('➕ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩𝐬 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Channel 👀', url='https://t.me/moviesss4ers'),
-                    InlineKeyboardButton('Group 👀', url='https://t.me/moviei43')
+                    InlineKeyboardButton('Channel 👀', url='https://t.me/moonverse2023movies'),
+                    InlineKeyboardButton('Group 👀', url='https://t.me/moonverse1')
                 ],[
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
                     InlineKeyboardButton('About Me 🙈', callback_data='about')
                 ],[
-                    InlineKeyboardButton('Any Queries DM Here ✅',url='https://t.me/Link_Reporter_Bot')
+                    InlineKeyboardButton('Any Queries DM Here ✅',url='https://t.me/Nayaaaakywtwywg')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1190,7 +1190,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("👩‍🦯 Back", callback_data="start"),
-                    InlineKeyboardButton("Contact Us ✅", url="t.me/Link_Reporter_Bot")
+                    InlineKeyboardButton("Contact Us ✅", url="t.me/Nayaaaakywtwywg")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
