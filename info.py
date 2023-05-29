@@ -22,10 +22,10 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '2062193742:AAEQbg5PG24kRkUpxnwhhXs90q-0P_Z
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/94c74580a918cb9e6b18e.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/94c74580a918cb9e6b18e.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/94c74580a918cb9e6b18e.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/229b746a9efacb4245b53.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/466f26273cdae73fc3d2e.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/466f26273cdae73fc3d2e.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/466f26273cdae73fc3d2e.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/466f26273cdae73fc3d2e.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '794968418').split()]
@@ -62,7 +62,7 @@ CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/moonverse2023movies')
 MSG_ALRT = environ.get('MSG_ALRT', 'Thanks To Using Me 😇')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001880454503'))
 REQUEST_LOGS = int(environ.get('REQUEST_LOGS', '-1001935569228'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'filmymenchat')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'moonverse1')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
