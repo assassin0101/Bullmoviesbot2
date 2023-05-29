@@ -176,14 +176,14 @@ If You Still Don't Get Movies then Owner Will Update Within 12Hour"""
 
 ╔═ ❁ ════════╗
 
-♡ <a href=https://t.me/moonverse2023movies></a>
+♡ <a href=https://t.me/moonverse2023movies>ᴍᴏᴏɴᴠᴇʀs</a>
 
-♡ <a href=https://t.me/Filmy_Rog>@Filmy_Rog </a>
+♡ <a href=https://t.me/moonverse1>ɢʀᴋᴜᴘ</a>
 
 ╚════════ ❁ ═╝</b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/HOW_TO_DOWNLOADDS/4) </i></b>"""
+<b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/HOW_TO_DOWNLOADDS/6) </i></b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
