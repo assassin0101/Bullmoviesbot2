@@ -132,7 +132,7 @@ Nᴀᴍᴇ - {}"""
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : 亗 THE SAN∂MAN 
 • ᴜꜱᴇʀɴᴀᴍᴇ : @Nayaaaakywtwywg
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Syrus_143_hpy'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Nayaaaakywtwywg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 Always Request in Correct Spelling... check Spellings on Google ...
