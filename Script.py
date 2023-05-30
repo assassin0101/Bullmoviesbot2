@@ -8,17 +8,17 @@ Cᴏɴᴛᴀᴄᴛ- @Syrus_143_Hpy
 
 Cʜᴇᴄᴋ Tʜᴇꜱᴇ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs 👇.</b>"""
 
-    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/Nayaaaakywtwywg><b>亗 C K</b></a>\n
+    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/ASSAULTER_SHIV><b>⏤͟͟͞͞•ᶦτͫ𝒛ͤ།┼⃖͢•🇮🇳 🇦𝕊𝕊@𝖚𝖑𝖙𝖊𝖗 🇸𝖍𝖎𝖛 ♡┼⃖͢ꭗ̥̽⎯꯭̽𓆩🖤𓆪 ™</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
 📚 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=vultr.com><b>ᴠᴘꜱ</b></a>\n
-© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/moonverse2023movies><b>ᴍᴏᴏɴᴠᴇᴛs</b></a>\n
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/bob_files><b>BoB Files</b></a>\n
 """
 
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
     
 » I will Create One Bot For You<b>
-» Contact @Syrus_143_Hpy<b>"""
+» Contact @as_3523<b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -39,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/RolexMoviesOX)</code>
+<code>[Button Text](buttonurl:https://t.me/bob_files)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -130,9 +130,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 亗 THE SAN∂MAN 
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Nayaaaakywtwywg
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Nayaaaakywtwywg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ⏤͟͟͞͞•ᶦτͫ𝒛ͤ།┼⃖͢•🇮🇳 🇦𝕊𝕊@𝖚𝖑𝖙𝖊𝖗 🇸𝖍𝖎𝖛 ♡┼⃖͢ꭗ̥̽⎯꯭̽𓆩🖤𓆪 ™ 
+• ᴜꜱᴇʀɴᴀᴍᴇ : @ASSAULTER_SHIV
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/ASSAULTER_SHIV'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 Always Request in Correct Spelling... check Spellings on Google ...
@@ -172,13 +172,11 @@ If You Still Don't Get Movies then Owner Will Update Within 12Hour"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂{file_name}
 
 ╔═ ❁ ════════╗
 
-♡ <a href=https://t.me/moonverse2023movies>ᴍᴏᴏɴᴠᴇʀs</a>
-
-♡ <a href=https://t.me/moonverse1>ɢʀᴋᴜᴘ</a>
+♡ ᴊᴏɪɴ ɴᴏᴡ: @BoB_Files  
 
 ╚════════ ❁ ═╝</b>"""
 
